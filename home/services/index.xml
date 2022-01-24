@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://elgc.github.io/elgc/Services/home/services/</link>
+    <description>Recent content in Services on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://elgc.github.io/elgc/Services/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Machine Learning</title>
+      <link>https://elgc.github.io/elgc/Services/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgc.github.io/elgc/Services/home/services/service1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Engineering</title>
+      <link>https://elgc.github.io/elgc/Services/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgc.github.io/elgc/Services/home/services/service4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations Research</title>
+      <link>https://elgc.github.io/elgc/Services/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgc.github.io/elgc/Services/home/services/service3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Six Sigma and Lean-Kata</title>
+      <link>https://elgc.github.io/elgc/Services/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgc.github.io/elgc/Services/home/services/service2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
